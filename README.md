@@ -40,6 +40,8 @@ BSCS Freshman @ FAST NUCES &nbsp;·&nbsp; Islamabad, PK &nbsp;<code>UTC+5</code>
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://github.com/baymaxdev?tab=repositories">
 <img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"></a>
+<a href="https://www.linkedin.com/in/baymaxdev/">
+<img src="https://img.shields.io/badge/Leetcode-e3931b?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode"></a>
 
 <br><br>
 
