@@ -8,7 +8,7 @@
 }
 .svgbob text {
     white-space: pre;
-    fill: black;
+    fill: white;
     font-family: Iosevka Fixed, monospace;
     font-size: 14px;
 }
