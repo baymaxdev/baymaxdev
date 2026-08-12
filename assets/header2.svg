@@ -20,7 +20,8 @@
     stroke-dasharray: 8;
 }
 .svgbob .blackFilled {
-    fill: black;
+    fill: white;
+    stroke: white;
 }
 .svgbob .filled {
     fill: #00bf63;
