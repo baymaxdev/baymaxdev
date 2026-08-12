@@ -14,7 +14,7 @@
 }
 .svgbob rect.backdrop {
     stroke: none;
-    fill: white;
+    fill: transparent;
 }
 .svgbob .broken {
     stroke-dasharray: 8;
