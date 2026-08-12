@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="#"><img src="./assets/header.svg" alt="baymaxdev" width="340"></a>
+<a href="#"><img src="./assets/header2.svg" alt="baymaxdev" width="340"></a>
 
 <h1><samp>Ammar&nbsp;Malik&nbsp;Awan</samp></h1>
 
